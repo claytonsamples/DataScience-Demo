@@ -2,4 +2,4 @@
 Portfolio project
 
 ## Notebook
-* [Run Colab] (https://github.com/claytonsamples/DataScience-Demo/blob/main/DS_first_day.ipynb)
+* [Run Colab Notebook] (https://github.com/claytonsamples/DataScience-Demo/blob/main/DS_first_day.ipynb)
